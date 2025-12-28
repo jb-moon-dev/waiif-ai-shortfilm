@@ -1,4 +1,4 @@
-# WAIFF-ai-shortfilm
+# AI-assisted Short Film Project (WAIFF)
 
 ## Overview
 This project is a short film created for WAIFF, focusing on experimenting with AI tools in creative production.
